@@ -1,0 +1,31 @@
+# EVENT CAMERA
+High Dynamic Range Object Detection Using Event Camera
+
+[pdf다운로드](https://github.com/junnei/ECOD/files/5222841/default.pdf)
+
+# Presentation
+![최종발표자료-01](https://user-images.githubusercontent.com/41983244/93173130-07a27180-f767-11ea-8518-a3f381bb6ee4.jpg)
+![최종발표자료-02](https://user-images.githubusercontent.com/41983244/93173144-0bce8f00-f767-11ea-81fb-77ca8fe9e14d.jpg)
+![최종발표자료-03](https://user-images.githubusercontent.com/41983244/93173147-0cffbc00-f767-11ea-8870-0db26cb73516.jpg)
+![최종발표자료-04](https://user-images.githubusercontent.com/41983244/93173148-0d985280-f767-11ea-9223-43c5e32bc860.jpg)
+![최종발표자료-05](https://user-images.githubusercontent.com/41983244/93173151-0e30e900-f767-11ea-85ea-78ffdb342ef8.jpg)
+![최종발표자료-06](https://user-images.githubusercontent.com/41983244/93173153-0ec97f80-f767-11ea-84a1-abb255066d4f.jpg)
+![최종발표자료-07](https://user-images.githubusercontent.com/41983244/93173155-0ec97f80-f767-11ea-8055-854f6ca15b86.jpg)
+![최종발표자료-08](https://user-images.githubusercontent.com/41983244/93173156-0f621600-f767-11ea-8c60-4da1521f3494.jpg)
+![최종발표자료-09](https://user-images.githubusercontent.com/41983244/93173157-0ffaac80-f767-11ea-8814-7ec9fdcb5a9b.jpg)
+![최종발표자료-10](https://user-images.githubusercontent.com/41983244/93173159-0ffaac80-f767-11ea-9778-62b249b319ea.jpg)
+![최종발표자료-11](https://user-images.githubusercontent.com/41983244/93173162-10934300-f767-11ea-8ddb-1c98a8ad53f0.jpg)
+![최종발표자료-12](https://user-images.githubusercontent.com/41983244/93173163-112bd980-f767-11ea-89cb-8436125e2515.jpg)
+![최종발표자료-13](https://user-images.githubusercontent.com/41983244/93173167-112bd980-f767-11ea-8dc2-e5bdd70539a1.jpg)
+![최종발표자료-14](https://user-images.githubusercontent.com/41983244/93173168-11c47000-f767-11ea-940a-2344b7298c4e.jpg)
+![최종발표자료-15](https://user-images.githubusercontent.com/41983244/93173170-11c47000-f767-11ea-8a4e-7e25b6d50a5c.jpg)
+![최종발표자료-16](https://user-images.githubusercontent.com/41983244/93173171-125d0680-f767-11ea-85a4-cbb1bbe96ca5.jpg)
+![최종발표자료-17](https://user-images.githubusercontent.com/41983244/93173172-125d0680-f767-11ea-9026-c80098c442bc.jpg)
+![최종발표자료-18](https://user-images.githubusercontent.com/41983244/93173174-12f59d00-f767-11ea-8424-2f6e57fcaa8a.jpg)
+![최종발표자료-19](https://user-images.githubusercontent.com/41983244/93173175-138e3380-f767-11ea-95b7-cefedd4eecc1.jpg)
+![최종발표자료-20](https://user-images.githubusercontent.com/41983244/93173177-138e3380-f767-11ea-82c4-401f8ebbde5e.jpg)
+![최종발표자료-21](https://user-images.githubusercontent.com/41983244/93173179-1426ca00-f767-11ea-8f43-baa3628b46f3.jpg)
+![최종발표자료-22](https://user-images.githubusercontent.com/41983244/93173180-1426ca00-f767-11ea-93b8-2bb7c8b322ef.jpg)
+![최종발표자료-23](https://user-images.githubusercontent.com/41983244/93173181-14bf6080-f767-11ea-9a0f-07e5acbb3f06.jpg)
+![최종발표자료-24](https://user-images.githubusercontent.com/41983244/93173182-1557f700-f767-11ea-8148-33cb673e7c1c.jpg)
+![최종발표자료-25](https://user-images.githubusercontent.com/41983244/93173185-1557f700-f767-11ea-88f7-3a48ed5bff4d.jpg)
